@@ -4,4 +4,6 @@
 
 Проект по мотивам курса Stepik.
 
-Датасет взят с сайта Kaggle/
+Датасет взят с сайта Kaggle.
+
+Jupiter Notebook
